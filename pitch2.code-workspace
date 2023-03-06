@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "pitch2",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "pitch2"
+  }
+}

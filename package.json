@@ -1,0 +1,19 @@
+{
+  "name": "pitch",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManosDeMantequilla/Dr.Paris-website.git"
+  },
+  "author": "nick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManosDeMantequilla/Dr.Paris-website/issues"
+  },
+  "homepage": "https://github.com/ManosDeMantequilla/Dr.Paris-website#readme"
+}
